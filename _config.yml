@@ -7,7 +7,7 @@
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Nicholas Record / Site Title"
+title                    : "Nicholas Record"
 title_separator          : "-"
 name                     : &name "Nicholas Record"
 description              : &description "personal description"
@@ -81,7 +81,7 @@ analytics:
 # Site Author
 author:
   name             : "Your Sidebar Name"
-  avatar           : "profile-nrecord.jpg"
+  avatar           : "profile-nickrecord.jpg"
   bio              : "Senior Research Scientist"
   location         : "Location"
   employer         : "Bigelow Laboratory"
