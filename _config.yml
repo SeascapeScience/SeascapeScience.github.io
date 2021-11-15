@@ -80,10 +80,10 @@ analytics:
 
 # Site Author
 author:
-  name             : "Your Sidebar Name"
-  avatar           : "profile-nickrecord.jpg"
+  name             : "Nick Record"
+  avatar           : "profile-nickrecord.png"
   bio              : "Senior Research Scientist"
-  location         : "Location"
+  location         : "East Boothbay ME USA"
   employer         : "Bigelow Laboratory"
   pubmed           : "https://pubmed.ncbi.nlm.nih.gov/?term=Record+NR&cauthor_id=22476710"
   googlescholar    : "https://scholar.google.com/citations?user=5WVSWBAAAAAJ&hl=en&oi=ao"
