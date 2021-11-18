@@ -11,21 +11,21 @@ redirect_from:
 
 Education
 ======
-* B.S. in GitHub, GitHub University, 2012
-* M.S. in Jekyll, GitHub University, 2014
-* Ph.D in Version Control Theory, GitHub University, 2018 (expected)
+* BA/MA Mathematics, University of Rochester, 2002
+* MSc Physical Oceanography, Memorial University of Newfoundland, 2005
+* PhD Oceanography, University of Maine, 2012
 
 Work experience
 ======
-* Summer 2015: Research Assistant
-  * Github University
-  * Duties included: Tagging issues
-  * Supervisor: Professor Git
-
-* Fall 2015: Research Assistant
-  * Github University
-  * Duties included: Merging pull requests
-  * Supervisor: Professor Hub
+* **2013-present**	Senior Research Scientist, Bigelow Laboratory for Ocean Sciences, East Boothbay ME, USA
+* **2013-present**	Research Scientist, Colby College, Waterville ME, USA
+* **2020**	  Otto Mønsted Fonden Visiting Professor, Denmark Technical University, Denmark
+* **2010-2015**	Board of Directors, Officer of Outreach and External Affairs, Gulf of Maine Marine Education Association, Portland ME, USA
+* **2012-2013**	Visiting Assistant Professor, Department of Earth and Oceanographic Science, Bowdoin College, Brunswick ME, USA
+* **2006-2012**	Research Associate, School of Marine Sciences, University of Maine, Orono, ME / Gulf of Maine Research Institute, Portland ME, USA
+* **2006**	Instructor, Adjunct Faculty, Mathematics Department, Southern Maine Community College, South Portland ME, USA
+* **2005-2006**	Physical Oceanography Research Technician, Bermuda Atlantic Time-Series Study, Bermuda Biological Station for Research, St. George's, Bermuda
+* **2002-2003** Instructor, Linda Learning Center and public schools, Phetchaburi, Thailand
   
 Skills
 ======
