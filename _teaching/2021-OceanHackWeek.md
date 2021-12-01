@@ -4,7 +4,7 @@ collection: teaching
 type: "Collaborative learning workshop"
 permalink: /teaching/2021-OceanHackWeek
 venue: "Virtual"
-date: 2021-08
+date: 2021-08-03
 location: "East Boothbay, Maine USA"
 ---
 
