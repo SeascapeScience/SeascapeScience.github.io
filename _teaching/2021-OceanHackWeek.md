@@ -14,4 +14,4 @@ A hybrid, hands-on, interactive workshop
 
 Global participation
 
-Tutorials, projects, and other materials available here: https://oceanhackweek.github.io/
+Tutorials, projects, and other materials available here: <https://oceanhackweek.github.io/>
