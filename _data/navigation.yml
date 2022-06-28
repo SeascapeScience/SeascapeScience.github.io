@@ -12,11 +12,11 @@
 #  - title: "Portfolio"
 #    url: /portfolio/
 #
-# - title: "CV"
+#  - title: "CV"
 #    url: /cv/
+#
+#  - title: "Guide"
+#    url: /markdown/
 main:        
   - title: "Blog Posts"
     url: /year-archive/
-        
-  - title: "Guide"
-    url: /markdown/
