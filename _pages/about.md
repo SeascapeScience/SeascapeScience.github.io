@@ -8,8 +8,5 @@ redirect_from:
   - /about.html
 ---
 
-Temporary text
+A place for writing about the future oceans, data and algorithms, equity, and the fate of humanity. 
 
-A data-driven personal website
-======
-Temporary text
