@@ -8,6 +8,8 @@ redirect_from:
   - /about.html
 ---
 
+
+
 A place for writing about 
 
 the future oceans, 
