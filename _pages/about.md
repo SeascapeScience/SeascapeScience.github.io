@@ -8,5 +8,9 @@ redirect_from:
   - /about.html
 ---
 
-A place for writing about the future oceans, data and algorithms, equity, and the fate of humanity. 
+A place for writing about 
+- [x] the future oceans, 
+  - [x] data and algorithms, 
+    - [x] equity and justice, 
+      - [x] and the fate of humanity. 
 
