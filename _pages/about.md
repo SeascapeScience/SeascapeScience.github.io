@@ -9,8 +9,14 @@ redirect_from:
 ---
 
 A place for writing about 
-- [x] the future oceans, 
-  - [x] data and algorithms, 
-    - [x] equity and justice, 
-      - [x] and the fate of humanity. 
+
+the future oceans, 
+
+data and algorithms, 
+
+zany organisms,
+
+equity and justice, 
+
+and the fate of humanity. 
 
