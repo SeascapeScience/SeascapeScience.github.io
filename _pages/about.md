@@ -18,7 +18,7 @@ data and algorithms,
 
 zany organisms,
 
-equity and justice, 
+equity, justice, and the fate of humanity,
 
-and the fate of humanity. 
+and other stuff.
 
