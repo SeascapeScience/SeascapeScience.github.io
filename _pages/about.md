@@ -9,6 +9,7 @@ redirect_from:
 ---
 
 
+.
 
 A place for writing about 
 
