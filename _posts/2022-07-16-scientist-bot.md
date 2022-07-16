@@ -9,7 +9,7 @@ tags:
   - bot
 ---
 
-I read an unsettling tweet the other day. Yes, many boring conversations start with that sentence, but hear me out. The tweeter suggested that in the near future, all jobs will be better performed by artificial intelligence, or “AI”. This is part of the promise and the fear of AI--that we will all be replaced by bots. And yes, it’s possible that the tweet itself came from a bot, and not a human, but it started me down a path of wondering: How close is my job to being replaced by AI?
+I read an unsettling tweet the other day. Yes, many boring conversations start with that sentence, but hear me out. The tweeter suggested that in the near future, all jobs will be better performed by artificial intelligence, or “AI”. This is part of the promise and the fear of AI--that we will all be replaced by bots. And yes, it’s possible that the tweet itself came from a bot, and not a human, but it started me down a path of wondering: __*How close is my job to being replaced by AI?*__
 
 Like the printing press, the cotton gin, and that device that converts goop into hotdogs, machines have for many years been automating jobs once performed by humans. Even the term “computer” used to refer to an acutal human person who did mathematical calculations with pencil and paper. Now with the fancy electronic kind of computers and advanced AI algorithms, many jobs once considered safe from automation—doctor, lawyer, scientist—could be up for grabs by quasi-smart computer programs. So how about my job?
 
