@@ -1,6 +1,6 @@
 ---
 permalink: /
-title: "Innumerable Future Oceans"
+title: "A Zillion Future Oceans"
 excerpt: "About"
 author_profile: true
 redirect_from: 
