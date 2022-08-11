@@ -7,7 +7,7 @@
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Nicholas Record"
+title                    : "Ocean Data Justice"
 title_separator          : "-"
 name                     : &name "Nicholas Record"
 description              : &description "personal description"
