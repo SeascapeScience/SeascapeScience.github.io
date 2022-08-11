@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-```
+
 .
 
 A place for writing about 
@@ -24,4 +24,4 @@ equity, justice, and the fate of humanity,
 and other stuff.
 
 [Posts](https://seascapescience.github.io/year-archive/)
-```
+
