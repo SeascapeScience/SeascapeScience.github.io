@@ -1,6 +1,6 @@
 ---
 permalink: /
-title: "A Zillion Future Oceans"
+title: "Ocean Data Justice Blog"
 excerpt: "About"
 author_profile: true
 redirect_from: 
@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-
+```
 .
 
 A place for writing about 
@@ -24,3 +24,4 @@ equity, justice, and the fate of humanity,
 and other stuff.
 
 [Posts](https://seascapescience.github.io/year-archive/)
+```
