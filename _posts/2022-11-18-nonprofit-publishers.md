@@ -42,4 +42,5 @@ I just want to emphasize that this is only a tactic, and addressing citational p
 
 https://docs.google.com/spreadsheets/d/1m9yyNmdtxS7AbE3AGyoLnLCFxdIeB5jKT5I_xZd8LsQ/edit#gid=0
 
-
+Addendum: CLEAR's bibliography on citational politics
+https://civiclaboratory.nl/2021/02/25/citational-politics-bibliography/
