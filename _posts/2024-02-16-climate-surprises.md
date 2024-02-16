@@ -31,6 +31,7 @@ The other type of surprises, closed surprises, it a bit like the “unknown unkn
  - New harmful algal or bacterial species affecting human health (e.g. Karenia, Pseudo-nitzschia, Vibrio)
  - Pathogens affecting fisheries directly, such as epizootic shell disease in lobsters
  - Extreme precipitation events
+ - Some others, that we discuss in the paper
 
 How do you prepare for the unexpected? There are a few ideas we discuss in the paper, such as something called "foresighting". It's a tough question, but there's a shift in focus that we need in order to incorporate this type of event into our preparations. This quote from Wally Broecker in 1987 captures it well:
 
