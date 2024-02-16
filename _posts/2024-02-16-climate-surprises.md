@@ -11,6 +11,8 @@ tags:
   - Maine
 ---
 
+"_Nothing is so painful to the human mind as a great and sudden change._" —Mary Shelley 1818
+
 Our lab group recently collaborated on a paper just out, “_The surprising oceanography of the Gulf of Maine_”. We were broadly asking about ocean / climate surprises that have happened historically, and what we might have to prepare for in the future. The question is challenging and a bit paradoxical, because if we were prepared, it wouldn’t be a surprise. Yet the extreme events that catch us off guard are really dangerous.
 
 Paper is here: <https://digitalcommons.library.umaine.edu/cgi/viewcontent.cgi?article=1973&context=mpr>
