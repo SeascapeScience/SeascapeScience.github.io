@@ -17,7 +17,7 @@ Our lab group recently collaborated on a paper just out, “_The surprising ocea
 
 Paper is here: <https://digitalcommons.library.umaine.edu/cgi/viewcontent.cgi?article=1973&context=mpr>
 
-There are different types of surprises we discussed. The sea level rise discussion captures one type of surprise called open surprises:
+There are different types of surprises we discussed. The sea level rise discussion captures one type of surprise called **open surprises**:
 
 “_For sea level rise, for example, we know that there is an on-going
 climate-driven process occurring, but sea level rise tends to
@@ -29,7 +29,7 @@ of the issue_.”
 
 This turned out to be prescient, as just a month later, in early January of this year, we had a climate disaster in Maine where this process played out, causing major damage along the coast of Maine.
 
-The other type of surprises, closed surprises, it a bit like the “unknown unknowns”. We discussed a few possibilities:
+The other type of surprises, **closed surprises**, it a bit like the so-called “unknown unknowns”. We discussed a few possibilities:
  - New harmful algal or bacterial species affecting human health (e.g. Karenia, Pseudo-nitzschia, Vibrio)
  - Pathogens affecting fisheries directly, such as epizootic shell disease in lobsters
  - Extreme precipitation events
