@@ -13,7 +13,7 @@ tags:
 
 Our lab group recently collaborated on a paper just out, “_The surprising oceanography of the Gulf of Maine_”. We were broadly asking about ocean / climate surprises that have happened historically, and what we might have to prepare for in the future. The question is challenging and a bit paradoxical, because if we were prepared, it wouldn’t be a surprise. Yet the extreme events that catch us off guard are really dangerous.
 
-Paper is here: https://digitalcommons.library.umaine.edu/cgi/viewcontent.cgi?article=1973&context=mpr
+Paper is here: <https://digitalcommons.library.umaine.edu/cgi/viewcontent.cgi?article=1973&context=mpr>
 
 There are different types of surprises we discussed. The sea level rise discussion captures one type of surprise called open surprises:
 
@@ -38,6 +38,6 @@ How do you prepare for the unexpected? There are a few ideas we discuss in the p
 by model simulations that suggest a gradual warming over a
 period of about 100 years._"
 
-If these topics resonate, check out the full paper: https://digitalcommons.library.umaine.edu/cgi/viewcontent.cgi?article=1973&context=mpr
+If these topics resonate, check out the full paper: <https://digitalcommons.library.umaine.edu/cgi/viewcontent.cgi?article=1973&context=mpr>
 
 
