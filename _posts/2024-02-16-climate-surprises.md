@@ -28,7 +28,7 @@ of the issue_.”
 This turned out to be prescient, as just a month later, in early January of this year, we had a climate disaster in Maine where this process played out, causing major damage along the coast of Maine.
 
 The other type of surprises, closed surprises, it a bit like the “unknown unknowns”. We discussed a few possibilities:
- - New harmful algal or bacterial species affecting human health (e.g. HABs, Vibrio)
+ - New harmful algal or bacterial species affecting human health (e.g. Karenia, Pseudo-nitzschia, Vibrio)
  - Pathogens affecting fisheries directly, such as epizootic shell disease in lobsters
  - Extreme precipitation events
 
@@ -38,6 +38,6 @@ How do you prepare for the unexpected? There are a few ideas we discuss in the p
 by model simulations that suggest a gradual warming over a
 period of about 100 years._"
 
-If these topics resonate, check out the full paper: <https://digitalcommons.library.umaine.edu/cgi/viewcontent.cgi?article=1973&context=mpr>
+If these topics resonate, check out the full paper, where we go into a lot more detail: <https://digitalcommons.library.umaine.edu/cgi/viewcontent.cgi?article=1973&context=mpr>
 
 
