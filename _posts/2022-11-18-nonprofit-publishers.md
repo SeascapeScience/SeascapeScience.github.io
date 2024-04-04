@@ -44,3 +44,6 @@ https://docs.google.com/spreadsheets/d/1m9yyNmdtxS7AbE3AGyoLnLCFxdIeB5jKT5I_xZd8
 
 Addendum: CLEAR's bibliography on citational politics
 https://civiclaboratory.nl/2021/02/25/citational-politics-bibliography/
+
+Addendum: PeerJ has been acquired by Taylor & Francis (for profit)
+
