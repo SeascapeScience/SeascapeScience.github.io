@@ -13,7 +13,7 @@ tags:
 
 Do you believe that some people are gifted with the ability to make really good predictions about the future? According to theory, such people exist and are called “**superforecasters**”. Superforecasters don’t have to have extra education or specializations— they can come from any walk of life. But they do have certain habits and ways of thinking that enable them to consistently predict the outcomes of future events with significant accuracy. Again, according to theory. And some evidence.
 
-Each year, we at the Tandy Center run a **Superforecasting Challenge**. The future events that we are trying to predict are related to the environment in our home state of Maine. 
+Each year, we at the Tandy Center run a **Superforecasting Challenge**. The future events that we are trying to predict are related to the environment and climate in our home state of Maine. 
 
 Here is a summary of the group’s performance for the 2024 Superforecasting Challenge questions. **Note that a 50-50 guess would give a score of 0.25, and lower scores are better**.
 
