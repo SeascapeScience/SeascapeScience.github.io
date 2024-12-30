@@ -17,6 +17,8 @@ Each year, we at the Tandy Center run a **Superforecasting Challenge**. The futu
 
 Here is a summary of the group’s performance for the 2024 Superforecasting Challenge questions. Note that a 50-50 guess would give a score of 0.25, and lower scores are better.
 
+**There were eight questions/events:**
+
 _Event 1. GMRI to report summer 2024 as among the three warmest summers on record in the Gulf of Maine._ The summer of 2024 clocked in at the seventh warmest on record, well below the group’s expectations. The group average score was **0.50**, **significantly** **worse** than a 50-50 guess.
 
 _Event 2. DMR to report lobster landings for 2023 as at or above 80 million pounds_. Landings were over 90 million pounds. The group average score was **0.10**, **significantly better** than a 50-50 guess.
