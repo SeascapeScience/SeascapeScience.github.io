@@ -33,7 +33,7 @@ _Event 6. Popham Beach State Park to issue a closure to water access due to a co
 
 _Event 7. Confirmed sighting of a Steller’s Sea Eagle in Maine reported in the Press Herald between February 1 and November 1, 2024 (including those dates)_. The Sea Eagle seems to have settled in in Newfoundland for now. Realism won slightly over hope here, and the group average score was **0.17**, **slightly better** than a 50-50 guess.
 
-_Event 8. Five or more North Atlantic right whale births in January-March 2024_. This was a quick win for the right whales, but only a slight win for the aspiring superforecasters. The group average score was **0.2**0, **ever so slightly better** than a 50-50 guess.
+_Event 8. Five or more North Atlantic right whale births in January-March 2024_. This was a quick win for the right whales, but only a slight win for the aspiring superforecasters. The group average score was **0.20**, **ever so slightly better** than a 50-50 guess.
 
 Some final notes: 
  - The overall group score was 0.24. Again, for context, guessing 50% on everything would have given a slightly worse score of 0.25.
