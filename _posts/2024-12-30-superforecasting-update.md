@@ -15,7 +15,7 @@ Do you believe that some people are gifted with the ability to make really good 
 
 Each year, we at the Tandy Center run a **Superforecasting Challenge**. The future events that we are trying to predict are related to the environment in our home state of Maine. 
 
-Here is a summary of the group’s performance for the 2024 Superforecasting Challenge questions. Note that a 50-50 guess would give a score of 0.25, and lower scores are better.
+Here is a summary of the group’s performance for the 2024 Superforecasting Challenge questions. **Note that a 50-50 guess would give a score of 0.25, and lower scores are better**.
 
 **There were eight questions/events:**
 
