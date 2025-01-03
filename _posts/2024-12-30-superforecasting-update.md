@@ -37,7 +37,7 @@ _Event 8. Five or more North Atlantic right whale births in January-March 2024_.
 
 Some final notes: 
  - We had 40+ perticipants. With eight questions, there are 2^8 = 256 possible outcomes. At the outset, every single participant had a potential path to victory.
- - The winning score among the official participants was 0.11. (One unofficial one-year-old participant scored 0.03.)
+ - The winning score among the official participants was 0.11. (One unofficial ten-year-old participant scored 0.03.)
  - The overall group average score was 0.24 (median 0.26). Again, for context, guessing 50% on everything would have given a score of 0.25.
  - There were also some anonymous unofficial participants (a middle schooler, and a professional forecaster), who scored a little better.
  - We also had an AI participant (Chat GPT), who came in at slighly worse... 0.26
