@@ -40,7 +40,9 @@ Some final notes:
  - The winning score among the official participants was 0.11. (One unofficial ten-year-old participant scored 0.03!!)
  - The overall group average score was 0.24 (median 0.26). Again, for context, guessing 50% on everything would have given a score of 0.25.
  - There were also some anonymous unofficial participants (a middle schooler, and a professional forecaster), who scored a little better.
- - We also had an AI participant (Chat GPT), who came in at slighly worse... 0.26
+ - We also had an AI participant (Chat GPT), who came in at slighly worse... 0.26.
+
+All in all, things clustered pretty tightly around that 0.25 number. Can we do better than a coin toss? One test of superforecasters is how they learn from their previous performances.
 
 See you in 2025!
 
