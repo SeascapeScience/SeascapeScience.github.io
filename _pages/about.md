@@ -19,7 +19,7 @@ data and algorithms,
 
 zany organisms,
 
-equity, justice, and the fate of humanity,
+the fate of humanity,
 
 and other stuff.
 
