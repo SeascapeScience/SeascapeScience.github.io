@@ -9,6 +9,6 @@ redirect_from:
 ---
 
 
-Before the heat wave, shellfish closures were longer and more common. And I’ve been hearing from neighbors recently that the alewife timing is off. We’ll be checking in on these and other conditions. Stay tuned, and keep an eye on those buoys.
+What is the future of the ocean? The science of forecasting can reveal possible futures for jellyfish, whales, toxic algae, plastic, and even maritime warfare. I explore this fascinating field with stories, cartoons, and scientific explanations in my upcoming book from Columbia University Press.
 
 <img src="/images/TFOcover.png" width="300"/>
