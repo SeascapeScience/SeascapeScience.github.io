@@ -43,8 +43,7 @@ One thing I try to say often is that forecasting isn’t exactly a scientific or
 
 <img src="/images/cookbook.png" width="500"/>
 
-**Figure 2: Old cookbooks containing hidden information on past fisheries.
-**
+**Figure 2: Old cookbooks containing hidden information on past fisheries.**
 
 I recommend to any aspiring forecaster: try to get to an OPI meeting at some point. Or, if your area of ecological forecasting has nothing to do with the ocean, find a similar meeting with opportunities to connect with historians in your realm.
 
@@ -54,9 +53,9 @@ _This content originally appeared in the Ecological Forecasting Initiative blog 
 
 **References**
 
-Oceans Past Initiative: https://oceanspast.org/
+Oceans Past Initiative: [https://oceanspast.org/](https://oceanspast.org/)
 
-Record NR, Evanilla J, Goode AG, Groner M, McClenachan L. 2026. Forecasting in hindsight for the American lobster fishery. FACETS. 11:1-0. https://doi.org/10.1139/facets-2025-0113
+Record NR, Evanilla J, Goode AG, Groner M, McClenachan L. 2026. Forecasting in hindsight for the American lobster fishery. FACETS. 11:1-0. [https://doi.org/10.1139/facets-2025-0113](https://doi.org/10.1139/facets-2025-0113)
 
 Simpson AC. 1956. The pelagic phase. Ibid. 207-250.
 
