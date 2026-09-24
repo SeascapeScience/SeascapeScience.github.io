@@ -82,9 +82,9 @@ analytics:
 author:
   name             : "Nick Record"
   avatar           : "profile-nickrecord.png"
-  bio              : "Senior Research Scientist"
-  location         : "East Boothbay ME USA"
-  employer         : "Bigelow Laboratory"
+  bio              : "Senior Research Scientist and Founding Director of the Tandy Center for Ocean Forecasting"
+  location         : 
+  employer         : "Bigelow Laboratory for Ocean Sciences"
   pubmed           : "https://pubmed.ncbi.nlm.nih.gov/?term=Record+NR&cauthor_id=22476710"
   googlescholar    : "https://scholar.google.com/citations?user=5WVSWBAAAAAJ&hl=en&oi=ao"
   email            :
