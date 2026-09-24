@@ -31,17 +31,21 @@ To figure out the disconnect, I found myself collaborating with (among others) t
 If you want to find out what we discovered, and of course read more anti-forecast quotes, you can (shameless plug), read the paper [here](https://doi.org/10.1139/facets-2025-0113).
 
 
+<img src="/images/lobster-article.png" width="400"/>
 
 **Figure 1: A short 1987 newspaper article from the historical corpus analyzed.
 **
+
 The reason I’m sharing this is not about lobster forecasting in particular, though. It has to do with the importance of understanding the historical context of the forecasts we’re focusing on. Loren looped me into OPI, and I attended their annual meeting. It was an amazing week. I found myself adventuring down histories of clam gardens, diaries, parasites, and whale communication. I now find myself collecting Victorian era cookbooks (à la Figure 2) and poring over them with friends on Saturday nights because the recipes tell me which fish were abundant in centuries past. I also made countless connections in my mind between the ocean’s past and its future.
 
 One thing I try to say often is that forecasting isn’t exactly a scientific or mathematical exercise. It’s a social act. One dimension of that social act is its historical context. No matter how fancy the next generation of algorithms gets, forecasters will not be helpful if we miss this dimension.
 
 
+<img src="/images/cookbook.png" width="500"/>
 
 **Figure 2: Old cookbooks containing hidden information on past fisheries.
 **
+
 I recommend to any aspiring forecaster: try to get to an OPI meeting at some point. Or, if your area of ecological forecasting has nothing to do with the ocean, find a similar meeting with opportunities to connect with historians in your realm.
 
 When it comes to knowing the ocean’s future, a historian is just as valuable as a forecaster. Or, as the old saying goes, those who predict the future without understanding the past are doomed to be humorously mocked by lobstermen.
