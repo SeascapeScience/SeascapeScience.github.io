@@ -33,7 +33,7 @@ If you want to find out what we discovered, and of course read more anti-forecas
 
 <img src="/images/lobster-article.png" width="400"/>
 
-*Figure 1: A short 1987 newspaper article from the historical corpus analyzed.*
+**Figure 1: A short 1987 newspaper article from the historical corpus analyzed.**
 
 
 The reason I’m sharing this is not about lobster forecasting in particular, though. It has to do with the importance of understanding the historical context of the forecasts we’re focusing on. Loren looped me into OPI, and I attended their annual meeting. It was an amazing week. I found myself adventuring down histories of clam gardens, diaries, parasites, and whale communication. I now find myself collecting Victorian era cookbooks (à la Figure 2) and poring over them with friends on Saturday nights because the recipes tell me which fish were abundant in centuries past. I also made countless connections in my mind between the ocean’s past and its future.
