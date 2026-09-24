@@ -1,7 +1,7 @@
 ---
 title: 'From lobsters to Jell-O: Searching the past to find the future'
 date: 2026-09-24
-permalink: /posts/2024/12/superforecast/
+permalink: /posts/2024/12/lobster-jell-o/
 tags:
   - lobster
   - forecast
