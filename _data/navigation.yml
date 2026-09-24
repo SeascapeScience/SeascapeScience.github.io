@@ -20,3 +20,6 @@
 main:        
   - title: "Posts"
     url: /year-archive/
+
+  - title: "Ten Future Oceans"
+    url: /ten-future-oceans/
