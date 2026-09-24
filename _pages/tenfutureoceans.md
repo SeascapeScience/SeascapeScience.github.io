@@ -1,8 +1,8 @@
 ---
 permalink: /
 title: "Ten Future Oceans"
-excerpt: "test"
-author_profile: true
+excerpt: 
+author_profile: false
 redirect_from: 
   - /tenfutureoceans/
   - /tenfutureoceans.html
