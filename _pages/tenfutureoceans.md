@@ -9,5 +9,6 @@ redirect_from:
 ---
 
 
-Coming soon
+Before the heat wave, shellfish closures were longer and more common. And I’ve been hearing from neighbors recently that the alewife timing is off. We’ll be checking in on these and other conditions. Stay tuned, and keep an eye on those buoys.
 
+<img src="/images/TFOcover.png" width="300"/>
