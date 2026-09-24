@@ -10,6 +10,9 @@ tags:
   - history
 ---
 
+_This content originally appeared in the Ecological Forecasting Initiative blog here_: [https://ecoforecast.org/from-lobsters-to-jell-o-searching-the-past-to-find-the-future/](https://ecoforecast.org/from-lobsters-to-jell-o-searching-the-past-to-find-the-future/)
+
+
 What is the future of the ocean?
 
 It seems like this might be a question for a forecaster. But is it?
@@ -48,8 +51,6 @@ One thing I try to say often is that forecasting isn’t exactly a scientific or
 I recommend to any aspiring forecaster: try to get to an OPI meeting at some point. Or, if your area of ecological forecasting has nothing to do with the ocean, find a similar meeting with opportunities to connect with historians in your realm.
 
 When it comes to knowing the ocean’s future, a historian is just as valuable as a forecaster. Or, as the old saying goes, those who predict the future without understanding the past are doomed to be humorously mocked by lobstermen.
-
-_This content originally appeared in the Ecological Forecasting Initiative blog here_: [https://ecoforecast.org/from-lobsters-to-jell-o-searching-the-past-to-find-the-future/](https://ecoforecast.org/from-lobsters-to-jell-o-searching-the-past-to-find-the-future/)
 
 **References**
 
