@@ -1,5 +1,5 @@
 ---
-permalink: /tenfutureoceans/
+permalink: /ten-future-oceans/
 title: "Ten Future Oceans"
 excerpt: 
 author_profile: true
