@@ -26,9 +26,9 @@ Just like lobstering, the practice of making scientific forecasts for the lobste
 
 Yet year after year, decade after decade, lobster forecasts have met an unforgiving audience. Quotes like the Jell-O one are not just amusing; they’re common. If you want to entertain yourself with a decades-long history of this type of response to forecasts, stay tuned. Meanwhile, my question is: why? What are we getting wrong?
 
-To figure out the disconnect, I found myself collaborating with (among others) the historical ecologist Dr. Loren McClenachan, who was helping to run the Oceans Past Initiative (OPI). Beginning around 2005, OPI aims to “uncover the history of marine ecosystems and human-ocean relationships”. Loren, myself, and a few other collaborators took a deep dive into the history of lobster forecasting. Using a news corpus (see Figure 1 for an example), policy documents, landings and climate data, and a review of scientific forecasting methods, we tried to understand the tension between forecasts and their intended audience.
+To figure out the disconnect, I found myself collaborating with (among others) the historical ecologist Dr. Loren McClenachan, who was helping to run the [Oceans Past Initiative](https://oceanspast.org/) (OPI). Beginning around 2005, OPI aims to “uncover the history of marine ecosystems and human-ocean relationships”. Loren, myself, and a few other collaborators took a deep dive into the history of lobster forecasting. Using a news corpus (see Figure 1 for an example), policy documents, landings and climate data, and a review of scientific forecasting methods, we tried to understand the tension between forecasts and their intended audience.
 
-If you want to find out what we discovered, and of course read more anti-forecast quotes, you can (shameless plug), read the paper here.
+If you want to find out what we discovered, and of course read more anti-forecast quotes, you can (shameless plug), read the paper [here](https://doi.org/10.1139/facets-2025-0113).
 
 
 
