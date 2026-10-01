@@ -13,4 +13,4 @@ What is the future of the ocean? The science of forecasting can reveal possible 
 
 Watch this space!
 
-<img src="/images/TFOcoverNew.png" width="300"/>
+<img src="/images/TFOcover2.png" width="300"/>
