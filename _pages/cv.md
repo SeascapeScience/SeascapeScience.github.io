@@ -27,14 +27,7 @@ Work experience
 * **2005-2006**	Physical Oceanography Research Technician, Bermuda Atlantic Time-Series Study, Bermuda Biological Station for Research, St. George's, Bermuda
 * **2002-2003** Instructor, Linda Learning Center and public schools, Phetchaburi, Thailand
   
-Skills
-======
-* Skill 1
-* Skill 2
-  * Sub-skill 2.1
-  * Sub-skill 2.2
-  * Sub-skill 2.3
-* Skill 3
+
 
 Publications
 ======
