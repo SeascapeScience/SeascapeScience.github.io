@@ -1,6 +1,6 @@
 ---
 layout: archive
-title: "Publications"
+title: "An Atlas of Radical Oceanography"
 permalink: /publications/
 author_profile: true
 ---
